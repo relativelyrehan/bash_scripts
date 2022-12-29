@@ -1,3 +1,8 @@
-# To run the script for setup
+# Setting up
 
-`👉🏻 . setup.sh`
+```sh
+$ cd my_work_folder
+$ git clone https://github.com/relativelyrehan/bash_scripts.git
+# Run the script
+$. setup.sh
+```
